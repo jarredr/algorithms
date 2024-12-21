@@ -4,6 +4,7 @@
 // Worst case: O(n^2)
 // Typical case: O(n^2)
 
+// An immutable and stable implementation of selection sort
 export function selectionSortImmutable(
   nums: number[],
   comparator: (a: number, b: number) => number,
@@ -28,6 +29,7 @@ export function selectionSortImmutable(
   return result;
 }
 
+// An in-place implementation of selection sort
 export function selectionSortInPlace(
   nums: number[],
   comparator: (a: number, b: number) => number,

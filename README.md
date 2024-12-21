@@ -1,6 +1,6 @@
 # Algorithms
 
-This project is an exploration and implementation of common algorithms in TypeScript.
+This project is an exploration and implementation of common algorithms and data structures in TypeScript.
 
 My implementations will aim to be performant, but since this is a learning exercise, readability is favoured.
 
